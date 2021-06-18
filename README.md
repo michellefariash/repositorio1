@@ -1,2 +1,2 @@
 # repositorio1
-Repositorio clase 1
+Repositorio de  clase 1
